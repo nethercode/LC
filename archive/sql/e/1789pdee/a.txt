@@ -1,0 +1,2 @@
+1789. Primary Department for Each Employee
+1096 ms

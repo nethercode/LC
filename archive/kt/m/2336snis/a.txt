@@ -1,0 +1,3 @@
+2336. Smallest Number in Infinite Set
+380 ms
+74 MB
