@@ -29,7 +29,6 @@ var longestPalindrome = function(s) {
     return longest;
 };
 
-// Example usage and output
 const input = "babad";
 const output = longestPalindrome(input);
 console.log(`Input: ${input}`);
